@@ -1,19 +1,26 @@
 {
+  "id": "./",
   "name": "DaySmart — Organise ta journée",
   "short_name": "DaySmart",
-  "description": "Organise tes tâches, tes habitudes et tes activités.",
+  "description": "Organise tes tâches, tes habitudes et tes activités avec DaySmart.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#f3f7f5",
   "theme_color": "#126b5b",
   "lang": "fr",
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
