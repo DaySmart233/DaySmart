@@ -10,15 +10,12 @@
   "background_color": "#f3f7f5",
   "theme_color": "#126b5b",
   "lang": "fr",
-  "categories": [
-    "productivity",
-    "lifestyle"
-  ],
+  "categories": ["productivity", "lifestyle"],
   "prefer_related_applications": false,
   "icons": [
     {
       "src": "icon.svg",
-      "sizes": "any",
+      "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any"
     }
